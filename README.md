@@ -3,3 +3,4 @@ Deelnemerslijst voor de Git en GitHub workshop:
 * [Harm Lammers](deelnemers/harm-lammers.md)
 * [Jacco Bruins Slot](deelnemers/jacco.md)
 * [Ron Wardenier](deelnemers/ron-wardenier.md)
+* [Marjan Dijkstra](deelnemers/marjan dijkstra.md)
